@@ -1,0 +1,6 @@
+To enable table of contents:
+jupyter nbextension enable toc
+
+To create html slide show:
+ipython nbconvert MakerPresentation.ipynb --to slides
+

@@ -1,0 +1,21 @@
+src/
+    __init__.py
+    CheckInternet.py
+    CreateRfcIndex.py
+    GetPage.py
+    GetRemoteDir.py
+    GetUrl.py
+    ImageLib.py
+    RfcPaths.py
+    RfcViewer.py
+    MakerPresentation.html
+    MakerPresentation.slides.html
+    MakerPresentation.ipynb
+    RfcViewer.png
+    /doc
+        SlidesHowTo.txt
+    images/
+        __init__.py
+    /data
+        /json
+            MakeText.bat
