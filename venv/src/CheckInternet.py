@@ -27,7 +27,7 @@ def testit():
     ci.check_availability()
     print(f'ci.internet_available: {ci.internet_available}')
     if ci.internet_available:
-        print('    On text successful')
+        print('    On test successful')
     else:
         print('    On test failed')
 
