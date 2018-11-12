@@ -14,3 +14,5 @@ If you are new to wxpython, you may want to run the following steps so that you 
 
 I will be adding to this code from time to time, currently working on PDF display, so check update dates.
 I will always leave a comment here explaining what has changed.
+
+To run jupyter presentation, go to venv --> src and double click MakerPresentation.ipynb
